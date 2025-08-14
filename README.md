@@ -30,15 +30,16 @@ Centralize pet tracking, health records, reminders, simple statistic and Dashboa
    This feature the make the owner can have a look of each pet with all the feature and can make owner remember and follow with their pet.
    <img width="1311" height="798" alt="Screenshot 2025-08-13 at 11 26 05 PM" src="https://github.com/user-attachments/assets/45f92839-b659-4f72-b0b4-fee0512c24ed" />
 # Demo Video
-https://www.youtube.com/watch?v=-JGRYrpU_FY
+   https://www.youtube.com/watch?v=-JGRYrpU_FY
+
 # Tech Stack
-Next.js ( App Router, TypeScript)  Tailwind CSS, D3,
+   Next.js ( App Router, TypeScript)  Tailwind CSS, D3,
 # Set up 
-npm run dev : run localhost://3000
+   npm run dev : run localhost://3000
 Install MUI and D3
-npm install d3 @types/d3 @mui/material @emotion/react @emotion/styled
+   npm install d3 @types/d3 @mui/material @emotion/react @emotion/styled
 Create the Next.js project 
-npx create-next-app@latest                                           
+   npx create-next-app@latest                                           
 
 
 
