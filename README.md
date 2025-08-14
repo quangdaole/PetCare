@@ -17,3 +17,6 @@ Centralize pet tracking, health records, reminders, simple statistic and Dashboa
 1. Pet tracking
    - This feature to make the ower can set up the pet with some activities such as walk, feeding, medication ...
      <img width="1311" height="798" alt="Screenshot 2025-08-13 at 11 15 35 PM" src="https://github.com/user-attachments/assets/15bd8dfc-1b0c-44f6-9628-70e2e3bf134d" />
+2. Health recovered
+   This feature to help the owner can able to check health of pets such as Vaccination, vetVisit, Medication, Allergy, surgery
+<img width="1311" height="798" alt="Screenshot 2025-08-13 at 11 20 04 PM" src="https://github.com/user-attachments/assets/a53d685e-2d37-41d0-a137-6ae375407b5b" />
