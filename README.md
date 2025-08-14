@@ -36,9 +36,9 @@ Centralize pet tracking, health records, reminders, simple statistic and Dashboa
    Next.js ( App Router, TypeScript)  Tailwind CSS, D3,
 # Set up 
    npm run dev : run localhost://3000
-Install MUI and D3
+Install MUI and D3:
    npm install d3 @types/d3 @mui/material @emotion/react @emotion/styled
-Create the Next.js project 
+Create the Next.js project:
    npx create-next-app@latest                                           
 
 
