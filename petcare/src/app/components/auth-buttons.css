@@ -1,0 +1,34 @@
+/* Base button look */
+.btn-auth {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border: 1px solid transparent;
+    transition: background-color 150ms ease, color 150ms ease, border-color 150ms ease;
+  }
+  
+  /* Login button (outline) */
+  .btn-login {
+    border-color: #bfdbfe;              /* blue-200 */
+    color: #1e3a8a;                     /* blue-900-ish */
+    background: transparent;
+  }
+  .btn-login:hover {
+    background: rgba(191, 219, 254, 0.7); /* blue-200/70 */
+  }
+  
+  /* Logout button (solid) */
+  .btn-logout {
+    border-color: #2563eb;              /* blue-600 */
+    background-color: #2563eb;
+    color: #ffffff;
+  }
+  .btn-logout:hover {
+    background-color: #1d4ed8;          /* blue-700 */
+  }
+  
