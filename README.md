@@ -20,3 +20,17 @@ Centralize pet tracking, health records, reminders, simple statistic and Dashboa
 2. Health recovered
    This feature to help the owner can able to check health of pets such as Vaccination, vetVisit, Medication, Allergy, surgery
 <img width="1311" height="798" alt="Screenshot 2025-08-13 at 11 20 04 PM" src="https://github.com/user-attachments/assets/a53d685e-2d37-41d0-a137-6ae375407b5b" />
+3. Reminders
+   This feature help the owner can able to remember the schedule or the thing need to do with their pet in the future.
+   <img width="1311" height="798" alt="Screenshot 2025-08-13 at 11 22 30 PM" src="https://github.com/user-attachments/assets/7cbf16bd-73ef-40a2-8dfc-28955ee2c6e1" />
+4. Statistics
+   This features is make the owner can able to see the activies of each pets. 
+   <img width="1311" height="798" alt="Screenshot 2025-08-13 at 11 24 10 PM" src="https://github.com/user-attachments/assets/77c716aa-1482-4099-b084-a4dd6e4b9c7e" />
+5. Dashboard
+   This feature the make the owner can have a look of each pet with all the feature and can make owner remember and follow with their pet.
+   <img width="1311" height="798" alt="Screenshot 2025-08-13 at 11 26 05 PM" src="https://github.com/user-attachments/assets/45f92839-b659-4f72-b0b4-fee0512c24ed" />
+# Demo Video
+https://www.youtube.com/watch?v=-JGRYrpU_FY
+
+
+   
